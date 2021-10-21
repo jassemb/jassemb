@@ -149,4 +149,7 @@
 </div>
   
 ---
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 Credit: [jassemb](https://github.com/jassemb)
+---
