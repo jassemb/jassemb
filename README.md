@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/mking94" target="_blank">
+  <a href="https://github.com/jassemb/" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
@@ -123,7 +123,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a href="https://medium.com/@maherdadi" target="_blank">
+    <a href="https://benalijassem201.medium.com/" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="FaceBook"/>
     </a>
   </div>
