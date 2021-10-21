@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate low level developer and a student in Holberton School from Tunisia.</h3>
 
 
-<img align="right" style="width:16rem; height:auto" src="https://media0.giphy.com/media/57YVteYGraIKl9zt23/giphy.gifcid=ecf05e47xpju414289eweajw1wyen1sc7lhl39u5pvjttruj&rid=giphy.gif&ct=g"/>
+<img align="right" style="width:16rem; height:auto" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e473u9zvm4sli552cft8h0xemly2pmz9tx5okgt3m78&rid=giphy.gif&ct=g"/>
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
