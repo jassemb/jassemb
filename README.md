@@ -23,7 +23,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
-  <img style="https://media2.giphy.com/media/Mh9zHLBy4YLirzU25L/giphy.gif?cid=ecf05e47qu7su1c547ad8fwg8sfmewyv0c8tizl1ho4dblta&rid=giphy.gif&ct=g"/>
+  <img style="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e473u9zvm4sli552cft8h0xemly2pmz9tx5okgt3m78&rid=giphy.gif&ct=g"/>
 </p>
 
 <h3 align="center">Languages</h3>
