@@ -135,13 +135,18 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a href="https://www.facebook.com/jassem.benali.58/" target="_blank">
+    <a href="https://facebook.com/dadi.maher" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook"/>
     </a>
-    <a  href="www.linkedin.com/in/jassem-ben-ali/" target="_blank">
+    <a  href="https://www.linkedin.com/in/jassem-ben-ali" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="mailto: jasssembenali53@gmail.com">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail">
     </a>
   </div>
 </div>
-
+  
+---
 Credit: [jassemb](https://github.com/jassemb)
