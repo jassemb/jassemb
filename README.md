@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate low level developer and a student in Holberton School from Tunisia.</h3>
 
 
-<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<img align="right" style="width:16rem; height:auto" src="https://media0.giphy.com/media/57YVteYGraIKl9zt23/giphy.gif?cid=ecf05e47xpju414289eweajw1wyen1sc7lhl39u5pvjttruj&rid=giphy.gif&ct=g"/>
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
