@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
-- 🤝 I’m looking for help with **Blockchain programming**
+- 🤝 I’m looking for help with **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available [@jassemb](github.com/jassemb)
 
