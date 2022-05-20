@@ -5,8 +5,6 @@
 <h1 align="center">Hi, I'm JASSEM Ben Ali <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">A passionate web devollper and a student in Holberton School from Tunisia.</h3>
 
-<img align="right" style="width:10rem; height:auto" src="https://media3.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e473u9zvm4sli552cft8h0xemly2pmz9tx5okgt3m78&rid=giphy.gif&ct=g"/>
-
 - 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **Full-Stack Web Development**
