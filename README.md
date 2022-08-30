@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm JASSEM Ben Ali </h1>
 <h3 font-size="20" align="center">A passionate web devollper and a student in Holberton School from Tunisia.</h3>
 
-- 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **Full-Stack Web Development**
 
